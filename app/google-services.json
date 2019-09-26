@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "272926443102",
+    "firebase_url": "https://tekkd-5e71f.firebaseio.com",
+    "project_id": "tekkd-5e71f",
+    "storage_bucket": "tekkd-5e71f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272926443102:android:6e126df3a3faa4f3",
+        "android_client_info": {
+          "package_name": "com.example.a370tekkd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272926443102-2ue8agpeeadmm6mg45emnv91cq60h6va.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a370tekkd",
+            "certificate_hash": "3a09198ac63caa7b49d33dca2d81e3368999b247"
+          }
+        },
+        {
+          "client_id": "272926443102-h85fm4npqeeq862s7lf5d894p5jlpi4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeoUCUGSpwWTAvYGlpaZ9NYqQlfIW9LF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272926443102-h85fm4npqeeq862s7lf5d894p5jlpi4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
